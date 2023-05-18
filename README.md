@@ -1,2 +1,0 @@
-# pandas-visualization
-pandas visualization
